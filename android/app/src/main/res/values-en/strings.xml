@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="salvar">Save</string>
+    <string name="text">First app android</string>
+    <string name="label_name">Name:</string>
+</resources>

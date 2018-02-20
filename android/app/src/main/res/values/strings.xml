@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="titulo_alert">Hello World - FIAP</string>
+    <string name="salvar">Salvar</string>
+    <string name="ok">OK</string>
+    <string name="text">Primeiro app android</string>
+    <string name="label_name">Nome:</string>
+
+</resources>
